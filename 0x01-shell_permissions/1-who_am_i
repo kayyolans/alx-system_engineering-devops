@@ -1,2 +1,2 @@
 #!/bin/bash
---name
+id -u -n
